@@ -4,4 +4,4 @@
 
 推特：[https://twitter.com/aswaplabs](https://twitter.com/aswaplabs)
 
-![](<../../.gitbook/assets/image (39).png>)
+![](<../../.gitbook/assets/image (25).png>)

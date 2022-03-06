@@ -16,4 +16,4 @@ TG 中文群：[https://t.me/StarswapZH](https://t.me/StarswapZH)
 
 
 
-![](<../../.gitbook/assets/image (25).png>)
+![](<../../.gitbook/assets/image (25) (1).png>)
