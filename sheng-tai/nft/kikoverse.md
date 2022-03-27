@@ -8,7 +8,11 @@ Kikoverse 是第一个建立在STC链上的多元宇宙经济世界，包括：�
 
 了解更多：[https://kiko-verse.gitbook.io](https://kiko-verse.gitbook.io)
 
-![](<../../.gitbook/assets/image (15).png>)
 
 
+![KikoVerse Home](<../../.gitbook/assets/image (31).png>)
+
+盲盒抢购、NFT 市场交易：
+
+![KikoVerse NFT](<../../.gitbook/assets/image (39).png>)
 

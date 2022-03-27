@@ -166,7 +166,7 @@ URL（<mark style="color:red;">支持 TLS/SSL，STC Box 从 2.1.6 版本开始�
 
 进入矿机页面，右侧展示了当前固件版本“2.1.4”，是可以升级的。
 
-![](<../.gitbook/assets/image (32).png>)
+![](<../.gitbook/assets/image (32) (1).png>)
 
 **2）下载最新的固件**
 
