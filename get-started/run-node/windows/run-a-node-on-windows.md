@@ -37,7 +37,7 @@ starcoin.exe -h
 
 This command is to view the help. The first line will return the software version. The screenshot of the command is as follows:
 
-![](<../../../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15) (1).png>)
 
 ### Run <a href="#dvjh0" id="dvjh0"></a>
 

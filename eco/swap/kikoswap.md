@@ -8,6 +8,4 @@ Website: [https://kikoswap.com](https://kikoswap.com)
 
 More details: [https://kiko-verse.gitbook.io](https://kiko-verse.gitbook.io)
 
-
-
-![](<../../.gitbook/assets/image (29).png>)
+![](<../../.gitbook/assets/image (38).png>)

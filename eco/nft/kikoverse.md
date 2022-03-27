@@ -10,4 +10,7 @@ More details: [https://kiko-verse.gitbook.io](https://kiko-verse.gitbook.io)
 
 
 
-![](<../../.gitbook/assets/image (33).png>)
+![KikoVerse Home](<../../.gitbook/assets/image (15).png>)
+
+![KikoVerse NFT](<../../.gitbook/assets/image (20).png>)
+
