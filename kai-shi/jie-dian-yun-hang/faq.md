@@ -52,14 +52,14 @@ $ cp starcoin-artifacts/starcoin_db_exporter starcoin_db_exporter
 先下载官方提供的同步脚本工具：
 
 ```shell
-$ wget https://raw.githubusercontent.com/starcoinorg/starcoin/master/scripts/import_net_block.sh
+$ wget https://raw.githubusercontent.com/starcoinorg/starcoin/master/scripts/import_block.sh
 ```
 
 给脚本执行权限，并开始下载主网区块数据到`/data/starcoin/main`目录并导入：
 
 ```bash
-$ chmod 755 import_net_block.sh
-$ ./import_net_block.sh main /data/starcoin/main
+$ chmod 755 import_block.sh
+$ ./import_block.sh main /data/starcoin/main
 ```
 
 > 小提示：
