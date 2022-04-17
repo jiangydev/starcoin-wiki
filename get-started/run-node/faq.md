@@ -54,14 +54,14 @@ $ cp starcoin-artifacts/starcoin_db_exporter starcoin_db_exporter
 First download the official synchronization script tool:
 
 ```shell
-$ wget https://raw.githubusercontent.com/starcoinorg/starcoin/master/scripts/import_net_block.sh
+$ wget https://raw.githubusercontent.com/starcoinorg/starcoin/master/scripts/import_block.sh
 ```
 
 Grant the script execution permission and start downloading the mainnet block data to the /data/starcoin/main directory and import:
 
 ```bash
-$ chmod 755 import_net_block.sh
-$ ./import_net_block.sh main /data/starcoin/main
+$ chmod 755 import_block.sh
+$ ./import_block.sh main /data/starcoin/main
 ```
 
 > Hint:
