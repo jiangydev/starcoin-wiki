@@ -42,7 +42,7 @@ A：同步进度执行上面的命令查看，同步耗时可以根据命令执�
 下载 `starcoin_db_exporter` 节点数据导出工具，这个是必须的，同步脚本需要使用到。
 
 ```shell
-$ wget https://github.com/starcoinorg/starcoin/releases/download/v1.9.1/starcoin-ubuntu-18.04.zip
+$ wget https://github.com/starcoinorg/starcoin/releases/download/v1.11.9/starcoin-ubuntu-18.04.zip
 $ unzip starcoin-ubuntu-18.04.zip
 $ cp starcoin-artifacts/starcoin_db_exporter starcoin_db_exporter
 ```
