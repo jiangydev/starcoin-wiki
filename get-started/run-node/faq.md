@@ -44,7 +44,7 @@ Download the mainnet block data of other nodes to the new node, and start the no
 Download the `starcoin_db_exporter` node data export tool, this is a must, and the synchronization script needs to be used.
 
 ```shell
-$ wget https://github.com/starcoinorg/starcoin/releases/download/v1.9.1/starcoin-ubuntu-18.04.zip
+$ wget https://github.com/starcoinorg/starcoin/releases/download/v1.11.9/starcoin-ubuntu-18.04.zip
 $ unzip starcoin-ubuntu-18.04.zip
 $ cp starcoin-artifacts/starcoin_db_exporter starcoin_db_exporter
 ```
